@@ -16,6 +16,10 @@
 
 *   [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
+## Git 工具
+
+1.  [Reset（重置）](git-tools/reset.md)
+
 ## Git 配置
 
 1.  [push.default 配置](git-configuration/push-default.md)
