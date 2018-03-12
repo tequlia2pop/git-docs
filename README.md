@@ -4,6 +4,8 @@
 
 1.  [记录更新](git-basics/recording-changes.md)
 
+1.  [打标签](git-basics/tagging.md)
+
 ## Git 分支
 
 1.  [分支简介](git-branching/branch-introduction.md)
