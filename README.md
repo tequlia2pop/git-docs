@@ -1,5 +1,9 @@
 # Git
 
+## Git 基础
+
+1.  [记录更新](git-basics/recording-changes.md)
+
 ## Git 分支
 
 1.  [分支简介](git-branching/branch-introduction.md)
@@ -45,6 +49,10 @@
 *   [TOWER - Git Cheat Sheet](git-cheat-sheet/tower-git-cheat-sheet.md)
 
 *   [Visual Git Cheat Sheet (SVG | PNG)](http://ndpsoftware.com/git-cheatsheet.html)
+
+## 附录-.gitignore
+
+*   [A collection of .gitignore templates](https://github.com/github/gitignore)
 
 ## 附录-参考
 
