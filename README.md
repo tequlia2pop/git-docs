@@ -24,6 +24,10 @@
 
 ## Git 工具
 
+1.  [储藏与清理](git-tools/stashing-and-cleaning.md)
+
+1.  [重写历史](git-tools/rewriting-history.md)
+
 1.  [Reset（重置）](git-tools/reset.md)
 
 ## Git 配置
@@ -44,11 +48,13 @@
 
 ## 附录-Git 备忘单
 
+*   [Git 备忘单](git-cheat-sheet/git-cheat-sheet.md)
+
 **参考资料**
 
 *   [GitHub Git Cheat Sheet (PDF)](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-*   [TOWER - Git Cheat Sheet](git-cheat-sheet/tower-git-cheat-sheet.md)
+*   [TOWER - Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 *   [Visual Git Cheat Sheet (SVG | PNG)](http://ndpsoftware.com/git-cheatsheet.html)
 
@@ -58,9 +64,21 @@
 
 ## 附录-参考
 
-*   [Pro Git 2nd Edition 中文版](https://git-scm.com/book/zh/v2)
+*   [Pro Git 2nd Edition](https://git-scm.com/book/en/v2)
 
-	Pro Git 由就职于 GitHub 公司的 Scott Chacon 执笔，是一部零基础的 Git 学习资料。基于知识共享的 CCBY-NC-SA3.0 许可协议，各位可以免费阅读到包括简体中文在内的各国语言版本。
+	Pro Git 由就职于 GitHub 公司的 Scott Chacon 执笔，是一部零基础的 Git 学习资料。基于知识共享的 CCBY-NC-SA3.0 许可协议，各位可以免费阅读到包括简体中文在内的各国语言版本。中文版在这儿：[Pro Git 2nd Edition 中文版](https://git-scm.com/book/zh/v2)。
+	
+*   [Git recipes in Chinese. 高质量的Git中文教程.](https://github.com/geeeeeeeeek/git-recipes)
+
+*   [廖雪峰: Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+*   [极客学院-Git 课程系列](http://my.jikexueyuan.com/7zJqUgkUk/record/)
+
+*   [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+	一个以发布为中心的 Git 开发模式，由荷兰程序员 Vincent Driessen 所提出。
+
+**动手操作**
 	
 *   [LearnGitBranching](http://learngitbranching.js.org/)
 
@@ -70,14 +88,7 @@
 
 	通过 tryGit 我们可以在 Web 上一边操作一边学习 Git 的基本功能。该教程只有英文版。
 
-*   [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-
-	一个以发布为中心的 Git 开发模式，由荷兰程序员 Vincent Driessen 所提出。
+**Git 客户端**
 
 *   [SourceTree Knowledge Base](https://confluence.atlassian.com/sourcetreekb/)	
 
-*   [Git recipes in Chinese. 高质量的Git中文教程.](https://github.com/geeeeeeeeek/git-recipes)
-
-*   [廖雪峰: Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-*   [极客学院-Git 课程系列](http://my.jikexueyuan.com/7zJqUgkUk/record/)
